@@ -1,5 +1,7 @@
 # OpenProject AI Copilot — PM Dashboard
 
+> 🔗 **Live Demo / Sharable URL:** [https://arc2911.github.io/opfrontend/](https://arc2911.github.io/opfrontend/)
+
 A modern, high-performance Project Manager Dashboard for **OpenProject AI Copilot**, built strictly with **Next.js (App Router), React 19, TypeScript, and Tailwind CSS**.
 
 The visual design is derived with 1:1 fidelity from [Figma Node 1:135](https://www.figma.com/design/X4QQe4pyvqwYYieBvXTgEk/OpenProject-AI-Copilot-%25E2%2580%2594-PM-Dashboard?node-id=1-135).
